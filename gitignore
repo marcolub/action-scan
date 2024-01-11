@@ -1,0 +1,6 @@
+__pycache__
+frames
+__pycache__/*
+frames/*
+ffmpeg
+ffmpeg/*
