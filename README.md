@@ -7,7 +7,7 @@ Action recognition using the pre-trained models trained on [Moments in Time](htt
 ### Execute the model real-time recognition
 
 Before running the script download the model :
-[ResNet50 pretrained on ImageNet](http://data.csail.mit.edu/soundnet/actions3/split2/moments_v2_RGB_imagenet_resnet3d50_segment16.pth.tar)
+[ResNet50 pretrained on ImageNet](http://moments.csail.mit.edu/moments_models/moments_v2_RGB_imagenet_resnet3d50_segment16.pth.tar)
 ```
     python test_video_cam.py
 ```
